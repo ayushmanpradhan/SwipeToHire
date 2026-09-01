@@ -7,9 +7,13 @@ SwipeToHire is an end-to-end **Data Science and NLP project** that analyzes resu
 The system uses **NLP preprocessing, TF-IDF, cosine similarity, and skill matching** to provide explainable preliminary resume screening.
 
 ---
+## Live Application
 
+🚀 **Try SwipeToHire:**  
+https://swipetohire.streamlit.app/
+
+---
 ## Key Features
-
 ### Job Description Based Screening
 - Paste an actual Job Description
 - Upload multiple candidate resumes
